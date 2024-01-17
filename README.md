@@ -1,4 +1,4 @@
-# Git
+# Git & Github
 
 Simple overview of use/purpose.
 
